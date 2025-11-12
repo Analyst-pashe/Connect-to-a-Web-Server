@@ -25,11 +25,11 @@ A Cisco Packet Tracer lab to observe how packets are sent across the Internet us
 - The web page successfully loads via the web browser using the IP address.
   
 ## Screenshots
-- [Verify Connectivity](`/images/Verifying-connectivity.png`)
-- [Web Browser Connection](`/images/web-browser-connection.png`)
+- [Verify Connectivity](/images/Verifying-connectivity.png)
+- [Web Browser Connection](/images/web-browser-connection.png)
 
 ## Files Included
-- [Connect-to-Web-Server.pkt]( — Packet Tracer lab file
+- [Connect-to-Web-Server.pkt](https://github.com/Analyst-pashe/Connect-to-a-Web-Server/blob/main/Connect-to-a-Web-Server.pka) — Packet Tracer lab file
 - `/images` — screenshots of command prompt and web connection
 
 ## Skills Demonstrated
