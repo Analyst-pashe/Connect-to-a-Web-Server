@@ -25,7 +25,7 @@ A Cisco Packet Tracer lab to observe how packets are sent across the Internet us
 - The web page successfully loads via the web browser using the IP address.
   
 ## Screenshots
-- Verify Connectivity (`/images/verify-connectivity.png`)
+- Verify Connectivity (`/images/Verifying-connectivity.png`)
 - Web Browser Connection (`/images/web-browser-connection.png`)
 
 ## Files Included
